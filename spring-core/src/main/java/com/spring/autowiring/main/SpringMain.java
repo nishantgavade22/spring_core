@@ -1,4 +1,4 @@
- package com.spring.autowiring.main;
+package com.spring.autowiring.main;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
